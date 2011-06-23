@@ -1,0 +1,3 @@
+[
+        {myprofile,      ["myprofile"],                  resource_template,  	[ {template, "myprofile.tpl"}]}
+].
